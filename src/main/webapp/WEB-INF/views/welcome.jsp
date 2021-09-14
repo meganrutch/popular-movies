@@ -1,16 +1,8 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<%@page import="java.util.* " %>
-<!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Welcome</title>
+<title>Yahoo!!</title>
 </head>
 <body>
-Welcome ${name} and Password is ${password}
+Welcome ${name}. You are now authenticated.
 </body>
 </html>
-
-<!-- Valid User -> welcome.jsp -->
-<!-- Invalid User -> login.jsp  -->

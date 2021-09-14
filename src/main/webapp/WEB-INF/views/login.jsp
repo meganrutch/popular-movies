@@ -1,18 +1,11 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<%@page import="java.util.* " %>
-<!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Yahoo!!! From jsp</title>
+<title>Yahoo!!</title>
 </head>
 <body>
-<div>
-</div>
-<form action="/login" method="post">
-<p><font color="red">${error}</font></p>
-Enter your name: <input type="text" name="name"/> password <input type="password" name="password"/><input type="submit" />
-</form>
+    <p><font color="red">${errorMessage}</font></p>
+    <form action="/login" method="POST">
+        Name : <input name="name" type="text" /> Password : <input name="password" type="password" /> <input type="submit" />
+    </form>
 </body>
 </html>
