@@ -28,7 +28,7 @@ public class LoginController {
 	private LoginService loginService;
 
 	@RequestMapping(value = "/login", method = RequestMethod.GET)
-	public String showLoginPage() throws FileNotFoundException, IOException, ParseException {
+	public String showLoginPage(ModelMap model) throws FileNotFoundException, IOException, ParseException {
 		// ensures nothing getting duplicated and added
 		popularMovies.clear();
 		System.out.println("Show login page method being called");
@@ -43,6 +43,8 @@ public class LoginController {
 			popularMovies.add(new Movie((String) movie.get("Movie"), (String) movie.get("Summary")));
 
 		}
+		model.put("popularMovies", popularMovies);
+
 		// for some reason first entry is empty so size is 21 but with 20 movies
 		System.out.println(popularMovies.size());
 		System.out.println(popularMovies.toString());
