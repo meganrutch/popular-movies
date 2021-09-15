@@ -1,3 +1,4 @@
+
 <html>
 <head>
 <title>Flickr Movie Website</title>
@@ -18,6 +19,7 @@
 	display: block;
 }
 </style>
+
 <body>
 	<header> Popular Movie Page </header>
 

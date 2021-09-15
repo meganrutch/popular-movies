@@ -1,0 +1,202 @@
+[
+ {
+   "Movie": "Dear John",
+   "Genre": "Drama",
+   "Studio": "Sony",
+   "Score": 66,
+   "Year": 2010,
+   "Rating": "PG-13",
+   "Popular": "Y",
+   "Summary": "A romantic drama about a soldier who falls for a conservative college student while he's home on leave."
+ },
+ {
+   "Movie": "Enchanted",
+   "Genre": "Comedy",
+   "Studio": "Disney",
+   "Score": 80,
+   "Year": 2007,
+   "Rating": "PG",
+   "Popular": "Y",
+   "Summary": "A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil Queen, where she falls in love with a lawyer."
+ },
+ {
+   "Movie": "Going the Distance",
+   "Genre": "Comedy",
+   "Studio": "Warner Bros.",
+   "Score": 56,
+   "Year": 2010,
+   "Rating": "R",
+   "Popular": "Y",
+   "Summary": "A romantic comedy centered on a guy and a gal who try to keep their love alive as they shuttle back and forth between New York and San Francisco to see one another."
+ },
+ {
+   "Movie": "High School Musical 3: Senior Year",
+   "Genre": "Comedy",
+   "Studio": "Disney",
+   "Score": 76,
+   "Year": 2008,
+   "Rating": "G",
+   "Popular": "Y",
+   "Summary": "As seniors in high school, Troy and Gabriella struggle with the idea of being separated from one another as college approaches. Along with the rest of the Wildcats, they stage a spring musical to address their experiences, hopes and fears about their future."
+ },
+ {
+   "Movie": "Letters to Juliet",
+   "Genre": "Comedy",
+   "Studio": "Summit",
+   "Score": 62,
+   "Year": 2010,
+   "Rating": "PG",
+   "Popular": "Y",
+   "Summary": "Sophie dreams of becoming a writer and travels to Verona, Italy where she meets the \"Secretaries of Juliet\"."
+ },
+ {
+   "Movie": "Made of Honor",
+   "Genre": "Comedy",
+   "Studio": "Sony",
+   "Score": 61,
+   "Year": 2008,
+   "Rating": "PG-13",
+   "Popular": "Y",
+   "Summary": "A guy in love with an engaged woman tries to win her over after she asks him to be her maid of honor."
+ },
+ {
+   "Movie": "Marley and Me",
+   "Genre": "Comedy",
+   "Studio": "Fox",
+   "Score": 77,
+   "Year": 2008,
+   "Rating": "PG",
+   "Popular": "Y",
+   "Summary": "A family learns important life lessons from their adorable, but naughty and neurotic dog."
+ },
+ {
+   "Movie": "Midnight in Paris",
+   "Genre": "Romance",
+   "Studio": "Sony",
+   "Score": 84,
+   "Year": 2011,
+   "Rating": "PG-13",
+   "Popular": "Y",
+   "Summary": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight."
+ },
+ {
+   "Movie": "My Week with Marilyn",
+   "Genre": "Drama",
+   "Studio": "The Weinstein Company",
+   "Score": 84,
+   "Year": 2011,
+   "Rating": "R",
+   "Popular": "Y",
+   "Summary": "Colin Clark, an employee of Sir Laurence Olivier, documents the tense interaction between Olivier and Marilyn Monroe during the production of The Prince and the Showgirl (1957)."
+ },
+ {
+   "Movie": "No Reservations",
+   "Genre": "Comedy",
+   "Studio": "Warner Bros.",
+   "Score": 64,
+   "Year": 2007,
+   "Rating": "PG",
+   "Popular": "Y",
+   "Summary": "The life of a top chef changes when she becomes the guardian of her young niece."
+ },
+ {
+   "Movie": "Not Easily Broken",
+   "Genre": "Drama",
+   "Studio": "Independent",
+   "Score": 66,
+   "Year": 2009,
+   "Rating": "PG-13",
+   "Popular": "Y",
+   "Summary": "A car accident and shifting affections test the bond between a married couple."
+ },
+ {
+   "Movie": "Rachel Getting Married",
+   "Genre": "Drama",
+   "Studio": "Independent",
+   "Score": 61,
+   "Year": 2008,
+   "Rating": "R",
+   "Popular": "Y",
+   "Summary": "A young woman who has been in and out of rehab for the past ten years, returns home for the weekend for her sister's wedding."
+ },
+ {
+   "Movie": "Remember Me",
+   "Genre": "Drama",
+   "Studio": "Summit",
+   "Score": 70,
+   "Year": 2010,
+   "Rating": "PG-13",
+   "Popular": "Y",
+   "Summary": "A romantic drama centered on two new lovers: Tyler, whose parents have split in the wake of his brother's suicide, and Ally, who lives each day to the fullest since witnessing her mother's murder."
+ },
+ {
+   "Movie": "Tangled",
+   "Genre": "Animation",
+   "Studio": "Disney",
+   "Score": 88,
+   "Year": 2010,
+   "Rating": "PG",
+   "Popular": "Y",
+   "Summary": "The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is."
+ },
+ {
+   "Movie": "The Curious Case of Benjamin Button",
+   "Genre": "Fantasy",
+   "Studio": "Warner Bros.",
+   "Score": 81,
+   "Year": 2008,
+   "Rating": "PG-13",
+   "Popular": "Y",
+   "Summary": "Tells the story of Benjamin Button, a man who starts aging backwards with consequences."
+ },
+ {
+   "Movie": "The Ugly Truth",
+   "Genre": "Comedy",
+   "Studio": "Independent",
+   "Score": 68,
+   "Year": 2009,
+   "Rating": "R",
+   "Popular": "Y",
+   "Summary": "An uptight television producer takes control of a morning show segment on modern relationships hosted by a misogynistic man."
+ },
+ {
+   "Movie": "Twilight",
+   "Genre": "Romance",
+   "Studio": "Summit",
+   "Score": 82,
+   "Year": 2008,
+   "Rating": "PG-13",
+   "Popular": "Y",
+   "Summary": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire."
+ },
+ {
+   "Movie": "Tyler Perry's Why Did I get Married",
+   "Genre": "Romance",
+   "Studio": "Independent",
+   "Score": 47,
+   "Year": 2007,
+   "Rating": "PG-13",
+   "Popular": "Y",
+   "Summary": "The big screen adaptation of Perry's stage play about the trials of marriage, and what happens to one family when a sexy young temptress arrives on the scene."
+ },
+ {
+   "Movie": "WALL-E",
+   "Genre": "Animation",
+   "Studio": "Disney",
+   "Score": 89,
+   "Year": 2008,
+   "Rating": "G",
+   "Popular": "Y",
+   "Summary": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
+ },
+ {
+   "Movie": "Water For Elephants",
+   "Genre": "Drama",
+   "Studio": "20th Century Fox",
+   "Score": 72,
+   "Year": 2011,
+   "Rating": "PG-13",
+   "Popular": "Y",
+   "Summary": "Set in the 1930s, a former veterinary student takes a job in a travelling circus and falls in love with the ringmaster's wife."
+ }
+]
