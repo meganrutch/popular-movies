@@ -25,7 +25,7 @@
 	<c:forEach var="movie" items="${popularMovies}">
 		<figure id="movieBox">
 			<img
-				src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqS6A3xRyIZxUzlChgAGLWjRXehBONy5rKAEbJMi-3KetNl1kS-Zogd3HTa4oQoa0SKok&usqp=CAU"
+				src="https://thumbs.dreamstime.com/b/movie-illustration-logo-vector-design-film-178252125.jpg"
 				style="width: 200px; height: 200px; border: 2px solid #000; background-color: blue">
 			<figcaption>
 				<center>${movie.getTitle()}</center>
