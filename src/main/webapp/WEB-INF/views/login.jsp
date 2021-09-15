@@ -22,7 +22,7 @@
 
 <body>
 	<header> Popular Movie Page </header>
-
+	<div>${popularMovies.title}</div>
 	<figure id="movieBox">
 		<img
 			src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqS6A3xRyIZxUzlChgAGLWjRXehBONy5rKAEbJMi-3KetNl1kS-Zogd3HTa4oQoa0SKok&usqp=CAU"

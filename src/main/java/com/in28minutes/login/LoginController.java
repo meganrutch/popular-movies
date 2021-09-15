@@ -29,24 +29,23 @@ public class LoginController {
 
 	@RequestMapping(value = "/login", method = RequestMethod.GET)
 	public String showLoginPage() throws FileNotFoundException, IOException, ParseException {
+		// ensures nothing getting duplicated and added
+		popularMovies.clear();
 		System.out.println("Show login page method being called");
 		JSONParser parser = new JSONParser();
 		File infoResource = ResourceUtils.getFile("classpath:popular_movies.json");
-
-		/*
-		 * JSONArray array = (JSONArray) parser.parse(new FileReader(infoResource)); for
-		 * (Object item : array) { JSONObject movie = (JSONObject) item; String
-		 * movieName = (String) movie.get("Movie"); System.out.println(movieName); }
-		 */
 		JSONArray array = (JSONArray) parser.parse(new FileReader(infoResource));
 
 		for (Object item : array) {
 
 			JSONObject movie = (JSONObject) item;
-			System.out.println(movie);
+			// System.out.println(movie);
 			popularMovies.add(new Movie((String) movie.get("Movie"), (String) movie.get("Summary")));
 
 		}
+		// for some reason first entry is empty so size is 21 but with 20 movies
+		System.out.println(popularMovies.size());
+		System.out.println(popularMovies.toString());
 		return "login";
 	}
 
